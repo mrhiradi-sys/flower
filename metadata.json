@@ -1,0 +1,6 @@
+{
+  "name": "Talking Flower",
+  "description": "An interactive Talking Flower companion inspired by Nintendo, that speaks funny, cheerful, and sarcastic comments every 5 minutes!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
